@@ -6,6 +6,11 @@
   "private": true,
   "dependencies": {
     "atem-connection": "^2.0.0-nightly-20200117-174823-3f8cfe7.0",
+    "nexe": "^3.3.2",
     "prompt": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "nexe index.js"
   }
 }
