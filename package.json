@@ -1,0 +1,11 @@
+{
+  "name": "atem-connection-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "atem-connection": "^2.0.0-nightly-20200117-174823-3f8cfe7.0",
+    "prompt": "^1.0.0"
+  }
+}
